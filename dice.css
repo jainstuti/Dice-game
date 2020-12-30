@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 5rem;
+    color: #8ad7c1;
+    text-align: center;
+}
+
+body{
+    background-color: #393e46;
+    
+}
+
+h2{
+    color: #8ad7c1;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+.col{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.diceWith6{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-top: 100px;
+    color: #ffffff;
+    font-family: 'Indie Flower', cursive;
+}
