@@ -1,9 +1,11 @@
+// random number on dice1
 var num1 =Math.random();
 num1  *=10;
 num1=Math.round(num1);
-num1 %= 6;
-num1 ++;
+num1 %= 6;    // so that the number is between 0 and 5
+num1 ++;      // to exclude 0 and include 6
 
+// random number on dice2
 var num2 =Math.random();
 num2  *=10;
 num2=Math.round(num2);
